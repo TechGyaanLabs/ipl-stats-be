@@ -14,14 +14,14 @@ public class TeamDetails{
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private UUID id;
-    private String team;
+    private String name;
     private double totalAmount;
     private double remainingAmount;
-    private String teamLabel;
-    private double totalPlayer;
+    private String label;
+    private double totalPlayers;
     private double overseasPlayers;
 
-    @OneToMany(mappedBy = "teamDetails", cascade = CascadeType.ALL)
+    @OneToMany(mappedBy = "teamDetails", cascade = CascadeType.ALL,fetch = FetchType.LAZY)
     private List<Player> players;
 
 

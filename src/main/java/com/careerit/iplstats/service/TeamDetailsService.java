@@ -7,4 +7,5 @@ import java.util.List;
 public interface TeamDetailsService {
 
         List<TeamDetails> addTeamDetails(List<TeamDetails> teamDetails);
+        List<TeamDetails> getTeamDetails();
 }

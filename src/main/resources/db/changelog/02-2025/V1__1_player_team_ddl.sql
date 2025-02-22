@@ -1,10 +1,10 @@
 CREATE TABLE IF NOT EXISTS team_details (
     id UUID PRIMARY KEY,
-    team VARCHAR(255) NOT NULL,
+    name VARCHAR(255) NOT NULL,
     total_amount float NOT NULL,
     remaining_amount float NOT NULL,
-    team_label VARCHAR(50) NOT NULL,
-    total_player int NOT NULL,
+    label VARCHAR(50) NOT NULL,
+    total_players int NOT NULL,
     overseas_players int NOT NULL
 );
 
