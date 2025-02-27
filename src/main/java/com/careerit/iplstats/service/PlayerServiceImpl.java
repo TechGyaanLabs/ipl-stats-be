@@ -9,7 +9,9 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
+import java.util.Map;
 import java.util.UUID;
+import java.util.stream.Collectors;
 
 @Service
 @RequiredArgsConstructor
@@ -19,11 +21,6 @@ public class PlayerServiceImpl implements PlayerService {
     private final PlayerRepo playerRepo;
     private final TeamDetailsRepo  teamDetailsRepo;
 
-
-    @Override
-    public List<Player> addPlayers(List<Player> players) {
-        return List.of();
-    }
 
     @Override
     public List<Player> getPlayers() {

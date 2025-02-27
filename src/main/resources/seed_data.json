@@ -1,86 +1,84 @@
 [
-  {
-    "name": "Royal Challengers Bangalore",
-    "totalAmount": 120.00,
-    "remainingAmount": 0.75,
-    "label": "RCB",
-    "totalPlayers": 22,
-    "overseasPlayers": 8
-  },
-  {
-    "name": "Chennai Super Kings",
-    "totalAmount": 120.00,
-    "remainingAmount": 0.05,
-    "label": "CSK",
-    "totalPlayers": 25,
-    "overseasPlayers": 7
-  },
-  {
-    "name": "Delhi Capitals",
-    "totalAmount": 120.00,
-    "remainingAmount": 0.20,
-    "label": "DC",
-    "totalPlayers": 23,
-    "overseasPlayers": 7
-  },
-  {
-    "name": "Gujarat Titans",
-    "totalAmount": 120.00,
-    "remainingAmount": 0.15,
-    "label": "GT",
-    "totalPlayers": 25,
-    "overseasPlayers": 7
-  },
-  {
-    "name": "Sunrisers Hyderabad",
-    "totalAmount": 120.00,
-    "remainingAmount": 0.20,
-    "label": "SRH",
-    "totalPlayers": 20,
-    "overseasPlayers": 7
-  },
-  {
-    "name": "Kolkata Knight Riders",
-    "totalAmount": 120.00,
-    "remainingAmount": 0.05,
-    "label": "KKR",
-    "totalPlayers": 21,
-    "overseasPlayers": 8
-  },
-  {
-    "name": "Lucknow Super Giants",
-    "totalAmount": 120.00,
-    "remainingAmount": 0.10,
-    "label": "LSG",
-    "totalPlayers": 24,
-    "overseasPlayers": 6
-  },
-  {
-    "name": "Mumbai Indians",
-    "totalAmount": 120.00,
-    "remainingAmount": 0.20,
-    "label": "MI",
-    "totalPlayers": 23,
-    "overseasPlayers": 8
-  },
-  {
-    "name": "Punjab Kings",
-    "totalAmount": 120.00,
-    "remainingAmount": 0.35,
-    "label": "PBKS",
-    "totalPlayers": 25,
-    "overseasPlayers": 8
-  },
-  {
-    "name": "Rajasthan Royals",
-    "totalAmount": 120.00,
-    "remainingAmount": 0.30,
-    "label": "RR",
-    "totalPlayers": 20,
-    "overseasPlayers": 6
-  },
-  "players":
-  [
+    {
+      "name": "Royal Challengers Bangalore",
+      "totalAmount": 120.00,
+      "remainingAmount": 0.75,
+      "team": "RCB",
+      "totalPlayers": 22,
+      "overseasPlayers": 8
+    },
+    {
+      "name": "Chennai Super Kings",
+      "totalAmount": 120.00,
+      "remainingAmount": 0.05,
+      "team": "CSK",
+      "totalPlayers": 25,
+      "overseasPlayers": 7
+    },
+    {
+      "name": "Delhi Capitals",
+      "totalAmount": 120.00,
+      "remainingAmount": 0.20,
+      "team": "DC",
+      "totalPlayers": 23,
+      "overseasPlayers": 7
+    },
+    {
+      "name": "Gujarat Titans",
+      "totalAmount": 120.00,
+      "remainingAmount": 0.15,
+      "team": "GT",
+      "totalPlayers": 25,
+      "overseasPlayers": 7
+    },
+    {
+      "name": "Sunrisers Hyderabad",
+      "totalAmount": 120.00,
+      "remainingAmount": 0.20,
+      "team": "SRH",
+      "totalPlayers": 20,
+      "overseasPlayers": 7
+    },
+    {
+      "name": "Kolkata Knight Riders",
+      "totalAmount": 120.00,
+      "remainingAmount": 0.05,
+      "team": "KKR",
+      "totalPlayers": 21,
+      "overseasPlayers": 8
+    },
+    {
+      "name": "Lucknow Super Giants",
+      "totalAmount": 120.00,
+      "remainingAmount": 0.10,
+      "team": "LSG",
+      "totalPlayers": 24,
+      "overseasPlayers": 6
+    },
+    {
+      "name": "Mumbai Indians",
+      "totalAmount": 120.00,
+      "remainingAmount": 0.20,
+      "team": "MI",
+      "totalPlayers": 23,
+      "overseasPlayers": 8
+    },
+    {
+      "name": "Punjab Kings",
+      "totalAmount": 120.00,
+      "remainingAmount": 0.35,
+      "team": "PBKS",
+      "totalPlayers": 25,
+      "overseasPlayers": 8
+    },
+    {
+      "name": "Rajasthan Royals",
+      "totalAmount": 120.00,
+      "remainingAmount": 0.30,
+      "team": "RR",
+      "totalPlayers": 20,
+      "overseasPlayers": 6
+    },
     {
       "name": "Ruturaj Gaikwad",
       "role": "BATSMAN",
@@ -1678,6 +1676,6 @@
       "price": 0.3
     }
   ]
-]
+
 
 

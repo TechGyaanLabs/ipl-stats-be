@@ -1,12 +1,16 @@
 package com.careerit.iplstats.service;
 
 import com.careerit.iplstats.domain.TeamDetails;
+import com.careerit.iplstats.dto.TeamBasicDetailsDto;
+import com.careerit.iplstats.dto.TeamStatsDto;
 import com.careerit.iplstats.repo.TeamDetailsRepo;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 
+import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 
 @Service
 @RequiredArgsConstructor
@@ -14,6 +18,8 @@ import java.util.List;
 public class TeamDetailsServiceImpl implements TeamDetailsService {
 
     private final TeamDetailsRepo teamDetailsRepo;
+
+
 
     @Override
     public List<TeamDetails> addTeamDetails(List<TeamDetails> teamDetails) {
