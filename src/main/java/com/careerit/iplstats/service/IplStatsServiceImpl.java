@@ -3,7 +3,8 @@ package com.careerit.iplstats.service;
 import com.careerit.iplstats.domain.TeamDetails;
 import com.careerit.iplstats.dto.PlayerDto;
 import com.careerit.iplstats.dto.TeamBasicDetailsDto;
-import com.careerit.iplstats.dto.TeamStatsDto;
+import com.careerit.iplstats.dto.IplStatsDto;
+import com.careerit.iplstats.repo.IplStatsRepo;
 import com.careerit.iplstats.repo.PlayerRepo;
 import com.careerit.iplstats.repo.TeamDetailsRepo;
 import lombok.RequiredArgsConstructor;
@@ -19,14 +20,30 @@ public class IplStatsServiceImpl implements IplStatsService {
 
     private final PlayerRepo playerRepo;
     private final TeamDetailsRepo teamDetailsRepo;
+    private final IplStatsRepo iplStatsRepo;
 
     @Override
-    public List<TeamStatsDto> getTeamStats() {
+    public List<IplStatsDto> getTeamStats() {
         return List.of();
     }
 
     @Override
     public List<PlayerDto> getPlayers(UUID teamId) {
+        return iplStatsRepo.getPlayers(teamId);
+    }
+
+    @Override
+    public List<IplStatsDto> getIplStats() {
+        return List.of();
+    }
+
+    @Override
+    public List<PlayerDto> getTopPaidPlayers() {
+        return List.of();
+    }
+
+    @Override
+    public List<PlayerDto> getTopPaidPlayersOfEachTeam() {
         return List.of();
     }
 

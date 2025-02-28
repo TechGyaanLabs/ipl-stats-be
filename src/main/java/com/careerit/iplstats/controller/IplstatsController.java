@@ -1,14 +1,14 @@
 package com.careerit.iplstats.controller;
 
+import com.careerit.iplstats.dto.PlayerDto;
 import com.careerit.iplstats.dto.TeamBasicDetailsDto;
 import com.careerit.iplstats.service.IplStatsService;
 import com.careerit.iplstats.util.ApiResponse;
 import lombok.RequiredArgsConstructor;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
+import java.util.UUID;
 
 @RestController
 @RequestMapping("/v1/stats")
@@ -21,6 +21,11 @@ public class IplstatsController {
     @RequestMapping("/team-basic-details")
     public ApiResponse<List<TeamBasicDetailsDto>> getTeamBasicDetails(){
         return new ApiResponse<>(iplStatsService.getTeamBasicDetails());
+    }
+
+    @GetMapping("/players/{teamId}")
+    public ApiResponse<List<PlayerDto>> getPlayers(@PathVariable("teamId") UUID teamId){
+        return new ApiResponse<>(iplStatsService.getPlayers(teamId));
     }
 
 

@@ -1,15 +1,18 @@
 package com.careerit.iplstats.service;
 
-import com.careerit.iplstats.domain.Player;
 import com.careerit.iplstats.dto.PlayerDto;
 import com.careerit.iplstats.dto.TeamBasicDetailsDto;
-import com.careerit.iplstats.dto.TeamStatsDto;
+import com.careerit.iplstats.dto.IplStatsDto;
 
 import java.util.List;
 import java.util.UUID;
 
 public interface IplStatsService {
     List<TeamBasicDetailsDto> getTeamBasicDetails();
-    List<TeamStatsDto> getTeamStats();
+    List<IplStatsDto> getTeamStats();
     List<PlayerDto> getPlayers(UUID teamId);
+
+    List<IplStatsDto> getIplStats();
+    List<PlayerDto> getTopPaidPlayers();
+    List<PlayerDto> getTopPaidPlayersOfEachTeam();
 }
