@@ -1,5 +1,6 @@
 package com.careerit.iplstats.controller;
 
+import com.careerit.iplstats.dto.IplStatsDto;
 import com.careerit.iplstats.dto.PlayerDto;
 import com.careerit.iplstats.dto.TeamBasicDetailsDto;
 import com.careerit.iplstats.service.IplStatsService;
@@ -26,6 +27,11 @@ public class IplstatsController {
     @GetMapping("/players/{teamId}")
     public ApiResponse<List<PlayerDto>> getPlayers(@PathVariable("teamId") UUID teamId){
         return new ApiResponse<>(iplStatsService.getPlayers(teamId));
+    }
+
+    @GetMapping("/team-stats")
+    public ApiResponse<IplStatsDto> getIplStats(){
+        return new ApiResponse<>(iplStatsService.getIplStats());
     }
 
 

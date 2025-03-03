@@ -1,14 +1,19 @@
 package com.careerit.iplstats.dto;
 
-import lombok.Data;
+import lombok.*;
 
+import java.util.List;
 import java.util.Map;
 
 @Data
+@NoArgsConstructor
+@AllArgsConstructor
+@Builder
+@ToString
 public class IplStatsDto {
 
-    private Map<String,Double> teamAmountStats;
-    private Map<String,Long> teamRoleCountStats;
-    private Map<String,Long> countryPlayerCountStats;
+    private List<TeamAmountDto> teamAmountStats;
+    private List<PlayerCountDto> teamPlayerCountStats;
+    private List<CountryPlayerCountDto> countryNameWithPlayerCountStats;
 
 }

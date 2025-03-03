@@ -12,7 +12,7 @@ public interface IplStatsService {
     List<IplStatsDto> getTeamStats();
     List<PlayerDto> getPlayers(UUID teamId);
 
-    List<IplStatsDto> getIplStats();
+    IplStatsDto getIplStats();
     List<PlayerDto> getTopPaidPlayers();
     List<PlayerDto> getTopPaidPlayersOfEachTeam();
 }

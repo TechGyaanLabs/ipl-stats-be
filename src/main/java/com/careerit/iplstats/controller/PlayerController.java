@@ -25,4 +25,12 @@ public class PlayerController {
     public ApiResponse<List<Player>> getPlayers() {
         return new ApiResponse<>(playerService.getPlayers());
     }
+
+    public void downloadPlayersData(){
+
+    }
+
+    public void emailPlayerDetails(){
+
+    }
 }

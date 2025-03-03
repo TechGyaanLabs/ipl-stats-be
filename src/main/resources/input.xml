@@ -1,0 +1,1600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<players>
+    <player>
+        <name>Ruturaj Gaikwad</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>CSK</team>
+        <price>18</price>
+    </player>
+    <player>
+        <name>Ravindra Jadeja</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>CSK</team>
+        <price>18</price>
+    </player>
+    <player>
+        <name>Matheesha Pathirana</name>
+        <role>BOWLER</role>
+        <country>Sri Lanka</country>
+        <team>CSK</team>
+        <price>13</price>
+    </player>
+    <player>
+        <name>Shivam Dube</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>CSK</team>
+        <price>12</price>
+    </player>
+    <player>
+        <name>MS Dhoni</name>
+        <role>WICKETKEEPER</role>
+        <country>India</country>
+        <team>CSK</team>
+        <price>4</price>
+    </player>
+    <player>
+        <name>Devon Conway</name>
+        <role>BATSMAN</role>
+        <country>New Zealand</country>
+        <team>CSK</team>
+        <price>6.25</price>
+    </player>
+    <player>
+        <name>Rahul Tripathi</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>CSK</team>
+        <price>3.4</price>
+    </player>
+    <player>
+        <name>Rachin Ravindra</name>
+        <role>ALL_ROUNDER</role>
+        <country>New Zealand</country>
+        <team>CSK</team>
+        <price>4</price>
+    </player>
+    <player>
+        <name>Ravichandran Ashwin</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>CSK</team>
+        <price>9.75</price>
+    </player>
+    <player>
+        <name>Syed Khaleel Ahmed</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>CSK</team>
+        <price>4.8</price>
+    </player>
+    <player>
+        <name>Noor Ahmad</name>
+        <role>BOWLER</role>
+        <country>Afghanistan</country>
+        <team>CSK</team>
+        <price>10</price>
+    </player>
+    <player>
+        <name>Vijay Shankar</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>CSK</team>
+        <price>1.2</price>
+    </player>
+    <player>
+        <name>Sam Curran</name>
+        <role>ALL_ROUNDER</role>
+        <country>England</country>
+        <team>CSK</team>
+        <price>2.4</price>
+    </player>
+    <player>
+        <name>Shaik Rasheed</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>CSK</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Anshul Kamboj</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>CSK</team>
+        <price>3.4</price>
+    </player>
+    <player>
+        <name>Mukesh Choudhary</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>CSK</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Deepak Hooda</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>CSK</team>
+        <price>1.7</price>
+    </player>
+    <player>
+        <name>Gurjapneet Singh</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>CSK</team>
+        <price>2.2</price>
+    </player>
+    <player>
+        <name>Nathan Ellis</name>
+        <role>BOWLER</role>
+        <country>Australia</country>
+        <team>CSK</team>
+        <price>1.25</price>
+    </player>
+    <player>
+        <name>Ramakrishna Ghosh</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>CSK</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Kamlesh Nagarkoti</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>CSK</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Jamie Overton</name>
+        <role>ALL_ROUNDER</role>
+        <country>England</country>
+        <team>CSK</team>
+        <price>1.5</price>
+    </player>
+    <player>
+        <name>Shreyas Gopal</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>CSK</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Vansh Bedi</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>CSK</team>
+        <price>0.55</price>
+    </player>
+    <player>
+        <name>C Andre Siddarth</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>CSK</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Axar Patel</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>DC</team>
+        <price>16.5</price>
+    </player>
+    <player>
+        <name>Kuldeep Yadav</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>DC</team>
+        <price>13.25</price>
+    </player>
+    <player>
+        <name>Tristan Stubbs</name>
+        <role>BATSMAN</role>
+        <country>South Africa</country>
+        <team>DC</team>
+        <price>10</price>
+    </player>
+    <player>
+        <name>Abishek Porel</name>
+        <role>WICKETKEEPER</role>
+        <country>India</country>
+        <team>DC</team>
+        <price>4</price>
+    </player>
+    <player>
+        <name>Mitchell Starc</name>
+        <role>BOWLER</role>
+        <country>Australia</country>
+        <team>DC</team>
+        <price>11.75</price>
+    </player>
+    <player>
+        <name>KL Rahul</name>
+        <role>WICKETKEEPER</role>
+        <country>India</country>
+        <team>DC</team>
+        <price>14</price>
+    </player>
+    <player>
+        <name>Harry Brook</name>
+        <role>BATSMAN</role>
+        <country>England</country>
+        <team>DC</team>
+        <price>6.25</price>
+    </player>
+    <player>
+        <name>Jake Fraser-Mcgurk</name>
+        <role>BATSMAN</role>
+        <country>Australia</country>
+        <team>DC</team>
+        <price>9</price>
+    </player>
+    <player>
+        <name>T Natarajan</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>DC</team>
+        <price>10.75</price>
+    </player>
+    <player>
+        <name>Karun Nair</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>DC</team>
+        <price>0.5</price>
+    </player>
+    <player>
+        <name>Sameer Rizvi</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>DC</team>
+        <price>0.95</price>
+    </player>
+    <player>
+        <name>Ashutosh Sharma</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>DC</team>
+        <price>3.8</price>
+    </player>
+    <player>
+        <name>Mohit Sharma</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>DC</team>
+        <price>2.2</price>
+    </player>
+    <player>
+        <name>Faf du Plessis</name>
+        <role>BATSMAN</role>
+        <country>South Africa</country>
+        <team>DC</team>
+        <price>2</price>
+    </player>
+    <player>
+        <name>Mukesh Kumar</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>DC</team>
+        <price>8</price>
+    </player>
+    <player>
+        <name>Darshan Nalkande</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>DC</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Vipraj Nigam</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>DC</team>
+        <price>0.5</price>
+    </player>
+    <player>
+        <name>Dushmantha Chameera</name>
+        <role>BOWLER</role>
+        <country>Sri Lanka</country>
+        <team>DC</team>
+        <price>0.75</price>
+    </player>
+    <player>
+        <name>Donovan Ferreira</name>
+        <role>BATSMAN</role>
+        <country>South Africa</country>
+        <team>DC</team>
+        <price>0.75</price>
+    </player>
+    <player>
+        <name>Ajay Mandal</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>DC</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Manvanth Kumar</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>DC</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Madhav Tiwari</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>DC</team>
+        <price>0.4</price>
+    </player>
+    <player>
+        <name>Tripurana Vijay</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>DC</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Rashid Khan</name>
+        <role>BOWLER</role>
+        <country>Afghanistan</country>
+        <team>GT</team>
+        <price>18</price>
+    </player>
+    <player>
+        <name>Shubman Gill</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>GT</team>
+        <price>16.5</price>
+    </player>
+    <player>
+        <name>Sai Sudharsan</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>GT</team>
+        <price>8.5</price>
+    </player>
+    <player>
+        <name>Rahul Tewatia</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>GT</team>
+        <price>4</price>
+    </player>
+    <player>
+        <name>Shahrukh Khan</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>GT</team>
+        <price>4</price>
+    </player>
+    <player>
+        <name>Kagiso Rabada</name>
+        <role>BOWLER</role>
+        <country>South Africa</country>
+        <team>GT</team>
+        <price>10.75</price>
+    </player>
+    <player>
+        <name>Jos Buttler</name>
+        <role>BATSMAN</role>
+        <country>England</country>
+        <team>GT</team>
+        <price>15.75</price>
+    </player>
+    <player>
+        <name>Mohammad Siraj</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>GT</team>
+        <price>12.25</price>
+    </player>
+    <player>
+        <name>Prasidh Krishna</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>GT</team>
+        <price>9.5</price>
+    </player>
+    <player>
+        <name>Nishant Sindhu</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>GT</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Mahipal Lomror</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>GT</team>
+        <price>1.7</price>
+    </player>
+    <player>
+        <name>Kumar Kushagra</name>
+        <role>WICKETKEEPER</role>
+        <country>India</country>
+        <team>GT</team>
+        <price>0.65</price>
+    </player>
+    <player>
+        <name>Anuj Rawat</name>
+        <role>WICKETKEEPER</role>
+        <country>India</country>
+        <team>GT</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Manav Suthar</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>GT</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Washington Sundar</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>GT</team>
+        <price>3.2</price>
+    </player>
+    <player>
+        <name>Gerald Coetzee</name>
+        <role>BOWLER</role>
+        <country>South Africa</country>
+        <team>GT</team>
+        <price>2.4</price>
+    </player>
+    <player>
+        <name>Arshad Khan</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>GT</team>
+        <price>1.3</price>
+    </player>
+    <player>
+        <name>Gurnoor Brar</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>GT</team>
+        <price>1.3</price>
+    </player>
+    <player>
+        <name>Sherfane Rutherford</name>
+        <role>BATSMAN</role>
+        <country>West Indies</country>
+        <team>GT</team>
+        <price>2.6</price>
+    </player>
+    <player>
+        <name>R Sai Kishore</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>GT</team>
+        <price>2</price>
+    </player>
+    <player>
+        <name>Ishant Sharma</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>GT</team>
+        <price>0.75</price>
+    </player>
+    <player>
+        <name>Jayant Yadav</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>GT</team>
+        <price>0.75</price>
+    </player>
+    <player>
+        <name>Glenn Phillips</name>
+        <role>ALL_ROUNDER</role>
+        <country>New Zealand</country>
+        <team>GT</team>
+        <price>2</price>
+    </player>
+    <player>
+        <name>Karim Janat</name>
+        <role>ALL_ROUNDER</role>
+        <country>Afghanistan</country>
+        <team>GT</team>
+        <price>0.75</price>
+    </player>
+    <player>
+        <name>Kulwant Khejroliya</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>GT</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Rinku Singh</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>KKR</team>
+        <price>13</price>
+    </player>
+    <player>
+        <name>Varun Chakaravarthy</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>KKR</team>
+        <price>12</price>
+    </player>
+    <player>
+        <name>Sunil Narine</name>
+        <role>ALL_ROUNDER</role>
+        <country>West Indies</country>
+        <team>KKR</team>
+        <price>12</price>
+    </player>
+    <player>
+        <name>Andre Russell</name>
+        <role>ALL_ROUNDER</role>
+        <country>West Indies</country>
+        <team>KKR</team>
+        <price>12</price>
+    </player>
+    <player>
+        <name>Harshit Rana</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>KKR</team>
+        <price>4</price>
+    </player>
+    <player>
+        <name>Ramandeep Singh</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>KKR</team>
+        <price>4</price>
+    </player>
+    <player>
+        <name>Venkatesh Iyer</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>KKR</team>
+        <price>23.75</price>
+    </player>
+    <player>
+        <name>Quinton de Kock</name>
+        <role>WICKETKEEPER</role>
+        <country>South Africa</country>
+        <team>KKR</team>
+        <price>3.6</price>
+    </player>
+    <player>
+        <name>Rahmanullah Gurbaz</name>
+        <role>WICKETKEEPER</role>
+        <country>Afghanistan</country>
+        <team>KKR</team>
+        <price>2</price>
+    </player>
+    <player>
+        <name>Anrich Nortje</name>
+        <role>BOWLER</role>
+        <country>South Africa</country>
+        <team>KKR</team>
+        <price>6.5</price>
+    </player>
+    <player>
+        <name>Angkrish Raghuvanshi</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>KKR</team>
+        <price>3</price>
+    </player>
+    <player>
+        <name>Vaibhav Arora</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>KKR</team>
+        <price>1.8</price>
+    </player>
+    <player>
+        <name>Mayank Markande</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>KKR</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Rovman Powell</name>
+        <role>BATSMAN</role>
+        <country>West Indies</country>
+        <team>KKR</team>
+        <price>1.5</price>
+    </player>
+    <player>
+        <name>Manish Pandey</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>KKR</team>
+        <price>0.75</price>
+    </player>
+    <player>
+        <name>Spencer Johnson</name>
+        <role>BOWLER</role>
+        <country>Australia</country>
+        <team>KKR</team>
+        <price>2.8</price>
+    </player>
+    <player>
+        <name>Luvnith Sisodia</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>KKR</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Ajinkya Rahane</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>KKR</team>
+        <price>1.5</price>
+    </player>
+    <player>
+        <name>Anukul Roy</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>KKR</team>
+        <price>0.4</price>
+    </player>
+    <player>
+        <name>Moeen Ali</name>
+        <role>ALL_ROUNDER</role>
+        <country>England</country>
+        <team>KKR</team>
+        <price>2</price>
+    </player>
+    <player>
+        <name>Umran Malik</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>KKR</team>
+        <price>0.75</price>
+    </player>
+    <player>
+        <name>Nicholas Pooran</name>
+        <role>WICKETKEEPER</role>
+        <country>West Indies</country>
+        <team>LSG</team>
+        <price>21</price>
+    </player>
+    <player>
+        <name>Ravi Bishnoi</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>LSG</team>
+        <price>11</price>
+    </player>
+    <player>
+        <name>Mayank Yadav</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>LSG</team>
+        <price>11</price>
+    </player>
+    <player>
+        <name>Mohsin Khan</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>LSG</team>
+        <price>4</price>
+    </player>
+    <player>
+        <name>Ayush Badoni</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>LSG</team>
+        <price>4</price>
+    </player>
+    <player>
+        <name>Rishabh Pant</name>
+        <role>WICKETKEEPER</role>
+        <country>India</country>
+        <team>LSG</team>
+        <price>27</price>
+    </player>
+    <player>
+        <name>David Miller</name>
+        <role>BATSMAN</role>
+        <country>South Africa</country>
+        <team>LSG</team>
+        <price>7.5</price>
+    </player>
+    <player>
+        <name>Mitchell Marsh</name>
+        <role>ALL_ROUNDER</role>
+        <country>Australia</country>
+        <team>LSG</team>
+        <price>3.4</price>
+    </player>
+    <player>
+        <name>Aiden Markram</name>
+        <role>BATSMAN</role>
+        <country>South Africa</country>
+        <team>LSG</team>
+        <price>2</price>
+    </player>
+    <player>
+        <name>Avesh Khan</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>LSG</team>
+        <price>9.75</price>
+    </player>
+    <player>
+        <name>Abdul Samad</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>LSG</team>
+        <price>4.2</price>
+    </player>
+    <player>
+        <name>Aryan Juyal</name>
+        <role>WICKETKEEPER</role>
+        <country>India</country>
+        <team>LSG</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Akash Deep</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>LSG</team>
+        <price>8</price>
+    </player>
+    <player>
+        <name>Himmat Singh</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>LSG</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>M Siddharth</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>LSG</team>
+        <price>0.75</price>
+    </player>
+    <player>
+        <name>Digvesh Singh</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>LSG</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Shahbaz Ahmed</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>LSG</team>
+        <price>2.4</price>
+    </player>
+    <player>
+        <name>Akash Singh</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>LSG</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Shamar Joseph</name>
+        <role>BOWLER</role>
+        <country>West Indies</country>
+        <team>LSG</team>
+        <price>0.75</price>
+    </player>
+    <player>
+        <name>Prince Yadav</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>LSG</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Yuvraj Chaudhary</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>LSG</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Rajvardhan Hangargekar</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>LSG</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Arshin Kulkarni</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>LSG</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Matthew Breetzke</name>
+        <role>BATSMAN</role>
+        <country>South Africa</country>
+        <team>LSG</team>
+        <price>0.75</price>
+    </player>
+    <player>
+        <name>Virat Kohli</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>RCB</team>
+        <price>21</price>
+    </player>
+    <player>
+        <name>Rajat Patidar</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>RCB</team>
+        <price>11</price>
+    </player>
+    <player>
+        <name>Yash Dayal</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>RCB</team>
+        <price>5</price>
+    </player>
+    <player>
+        <name>Liam Livingstone</name>
+        <role>ALL_ROUNDER</role>
+        <country>England</country>
+        <team>RCB</team>
+        <price>8.75</price>
+    </player>
+    <player>
+        <name>Phil Salt</name>
+        <role>WICKETKEEPER</role>
+        <country>England</country>
+        <team>RCB</team>
+        <price>11.5</price>
+    </player>
+    <player>
+        <name>Jitesh Sharma</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>RCB</team>
+        <price>11</price>
+    </player>
+    <player>
+        <name>Josh Hazlewood</name>
+        <role>BOWLER</role>
+        <country>Australia</country>
+        <team>RCB</team>
+        <price>12.5</price>
+    </player>
+    <player>
+        <name>Rasikh Dar</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>RCB</team>
+        <price>6</price>
+    </player>
+    <player>
+        <name>Suyash Sharma</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>RCB</team>
+        <price>2.6</price>
+    </player>
+    <player>
+        <name>Krunal Pandya</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>RCB</team>
+        <price>5.75</price>
+    </player>
+    <player>
+        <name>Bhuvneshwar Kumar</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>RCB</team>
+        <price>10.75</price>
+    </player>
+    <player>
+        <name>Swapnil Singh</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>RCB</team>
+        <price>0.5</price>
+    </player>
+    <player>
+        <name>Tim David</name>
+        <role>ALL_ROUNDER</role>
+        <country>Australia</country>
+        <team>RCB</team>
+        <price>3</price>
+    </player>
+    <player>
+        <name>Romario Shepherd</name>
+        <role>ALL_ROUNDER</role>
+        <country>West Indies</country>
+        <team>RCB</team>
+        <price>1.5</price>
+    </player>
+    <player>
+        <name>Nuwan Thushara</name>
+        <role>BOWLER</role>
+        <country>Sri Lanka</country>
+        <team>RCB</team>
+        <price>1.6</price>
+    </player>
+    <player>
+        <name>Manoj Bhandage</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>RCB</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Jacob Bethell</name>
+        <role>ALL_ROUNDER</role>
+        <country>England</country>
+        <team>RCB</team>
+        <price>2.6</price>
+    </player>
+    <player>
+        <name>Devdutt Padikkal</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>RCB</team>
+        <price>2</price>
+    </player>
+    <player>
+        <name>Swastik Chikara</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>RCB</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Mohit Rathee</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>RCB</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Abhinandan Singh</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>RCB</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Lungi Ngidi</name>
+        <role>BOWLER</role>
+        <country>South Africa</country>
+        <team>RCB</team>
+        <price>1</price>
+    </player>
+    <player>
+        <name>Sanju Samson</name>
+        <role>WICKETKEEPER</role>
+        <country>India</country>
+        <team>RR</team>
+        <price>18</price>
+    </player>
+    <player>
+        <name>Yashasvi Jaiswal</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>RR</team>
+        <price>18</price>
+    </player>
+    <player>
+        <name>Riyan Parag</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>RR</team>
+        <price>14</price>
+    </player>
+    <player>
+        <name>Dhruv Jurel</name>
+        <role>WICKETKEEPER</role>
+        <country>India</country>
+        <team>RR</team>
+        <price>14</price>
+    </player>
+    <player>
+        <name>Shimron Hetmyer</name>
+        <role>BATSMAN</role>
+        <country>West Indies</country>
+        <team>RR</team>
+        <price>11</price>
+    </player>
+    <player>
+        <name>Sandeep Sharma</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>RR</team>
+        <price>4</price>
+    </player>
+    <player>
+        <name>Jofra Archer</name>
+        <role>BOWLER</role>
+        <country>England</country>
+        <team>RR</team>
+        <price>12.5</price>
+    </player>
+    <player>
+        <name>Mahesh Theekshana</name>
+        <role>BOWLER</role>
+        <country>Sri Lanka</country>
+        <team>RR</team>
+        <price>4.4</price>
+    </player>
+    <player>
+        <name>Wanindu Hasaranga</name>
+        <role>BOWLER</role>
+        <country>Sri Lanka</country>
+        <team>RR</team>
+        <price>5.25</price>
+    </player>
+    <player>
+        <name>Akash Madhwal</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>RR</team>
+        <price>1.2</price>
+    </player>
+    <player>
+        <name>Kumar Kartikeya Singh</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>RR</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Nitish Rana</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>RR</team>
+        <price>4.2</price>
+    </player>
+    <player>
+        <name>Tushar Deshpande</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>RR</team>
+        <price>6.5</price>
+    </player>
+    <player>
+        <name>Shubham Dubey</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>RR</team>
+        <price>0.8</price>
+    </player>
+    <player>
+        <name>Yudhvir Charak</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>RR</team>
+        <price>0.35</price>
+    </player>
+    <player>
+        <name>Fazalhaq Farooqi</name>
+        <role>BOWLER</role>
+        <country>Sri Lanka</country>
+        <team>RR</team>
+        <price>2</price>
+    </player>
+    <player>
+        <name>Vaibhav Suryavanshi</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>RR</team>
+        <price>1.1</price>
+    </player>
+    <player>
+        <name>Kwena Maphaka</name>
+        <role>BOWLER</role>
+        <country>South Africa</country>
+        <team>RR</team>
+        <price>0.75</price>
+    </player>
+    <player>
+        <name>Ashok Sharma</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>RR</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Kunal Singh Rathore</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>RR</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Heinrich Klaasen</name>
+        <role>BATSMAN</role>
+        <country>South Africa</country>
+        <team>SRH</team>
+        <price>23</price>
+    </player>
+    <player>
+        <name>Pat Cummins</name>
+        <role>BOWLER</role>
+        <country>Australia</country>
+        <team>SRH</team>
+        <price>18</price>
+    </player>
+    <player>
+        <name>Abhishek Sharma</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>SRH</team>
+        <price>14</price>
+    </player>
+    <player>
+        <name>Travis Head</name>
+        <role>BATSMAN</role>
+        <country>Australia</country>
+        <team>SRH</team>
+        <price>14</price>
+    </player>
+    <player>
+        <name>Nitish Kumar Reddy</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>SRH</team>
+        <price>6</price>
+    </player>
+    <player>
+        <name>Mohammad Shami</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>SRH</team>
+        <price>10</price>
+    </player>
+    <player>
+        <name>Harshal Patel</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>SRH</team>
+        <price>8</price>
+    </player>
+    <player>
+        <name>Ishan Kishan</name>
+        <role>WICKETKEEPER</role>
+        <country>India</country>
+        <team>SRH</team>
+        <price>11.25</price>
+    </player>
+    <player>
+        <name>Rahul Chahar</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>SRH</team>
+        <price>3.2</price>
+    </player>
+    <player>
+        <name>Adam Zampa</name>
+        <role>BOWLER</role>
+        <country>Australia</country>
+        <team>SRH</team>
+        <price>2.4</price>
+    </player>
+    <player>
+        <name>Atharva Taide</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>SRH</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Abhinav Manohar</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>SRH</team>
+        <price>3.2</price>
+    </player>
+    <player>
+        <name>Simarjeet Singh</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>SRH</team>
+        <price>1.5</price>
+    </player>
+    <player>
+        <name>Zeeshan Ansari</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>SRH</team>
+        <price>0.4</price>
+    </player>
+    <player>
+        <name>Jaydev Unadkat</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>SRH</team>
+        <price>1</price>
+    </player>
+    <player>
+        <name>Brydon Carse</name>
+        <role>ALL_ROUNDER</role>
+        <country>England</country>
+        <team>SRH</team>
+        <price>1</price>
+    </player>
+    <player>
+        <name>Kamindu Mendis</name>
+        <role>ALL_ROUNDER</role>
+        <country>Sri Lanka</country>
+        <team>SRH</team>
+        <price>0.75</price>
+    </player>
+    <player>
+        <name>Aniket Verma</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>SRH</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Eshan Malinga</name>
+        <role>BOWLER</role>
+        <country>Sri Lanka</country>
+        <team>SRH</team>
+        <price>1.2</price>
+    </player>
+    <player>
+        <name>Sachin Baby</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>SRH</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Shashank Singh</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>PSKB</team>
+        <price>5.5</price>
+    </player>
+    <player>
+        <name>Prabhsimran Singh</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>PSKB</team>
+        <price>4</price>
+    </player>
+    <player>
+        <name>Arshdeep Singh</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>PSKB</team>
+        <price>18</price>
+    </player>
+    <player>
+        <name>Shreyas Iyer</name>
+        <role>WICKETKEEPER</role>
+        <country>India</country>
+        <team>PSKB</team>
+        <price>26.75</price>
+    </player>
+    <player>
+        <name>Yuzvendra Chahal</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>PSKB</team>
+        <price>18</price>
+    </player>
+    <player>
+        <name>Marcus Stoinis</name>
+        <role>ALL_ROUNDER</role>
+        <country>Australia</country>
+        <team>PSKB</team>
+        <price>11</price>
+    </player>
+    <player>
+        <name>Glenn Maxwell</name>
+        <role>ALL_ROUNDER</role>
+        <country>Australia</country>
+        <team>PSKB</team>
+        <price>4.2</price>
+    </player>
+    <player>
+        <name>Nehal Wadhera</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>PSKB</team>
+        <price>4.2</price>
+    </player>
+    <player>
+        <name>Harpreet Brar</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>PSKB</team>
+        <price>1.5</price>
+    </player>
+    <player>
+        <name>Vishnu Vinod</name>
+        <role>WICKETKEEPER</role>
+        <country>India</country>
+        <team>PSKB</team>
+        <price>0.95</price>
+    </player>
+    <player>
+        <name>Vijaykumar Vyshak</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>PSKB</team>
+        <price>1.8</price>
+    </player>
+    <player>
+        <name>Yash Thakur</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>PSKB</team>
+        <price>1.6</price>
+    </player>
+    <player>
+        <name>Marco Jansen</name>
+        <role>ALL_ROUNDER</role>
+        <country>South Africa</country>
+        <team>PSKB</team>
+        <price>7</price>
+    </player>
+    <player>
+        <name>Josh Inglis</name>
+        <role>BATSMAN</role>
+        <country>Australia</country>
+        <team>PSKB</team>
+        <price>2.6</price>
+    </player>
+    <player>
+        <name>Lockie Ferguson</name>
+        <role>BOWLER</role>
+        <country>New Zealand</country>
+        <team>PSKB</team>
+        <price>2</price>
+    </player>
+    <player>
+        <name>Azmatullah Omarzai</name>
+        <role>ALL_ROUNDER</role>
+        <country>Afghanistan</country>
+        <team>PSKB</team>
+        <price>2.4</price>
+    </player>
+    <player>
+        <name>Harnoor Pannu</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>PSKB</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Kuldeep Sen</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>PSKB</team>
+        <price>0.8</price>
+    </player>
+    <player>
+        <name>Priyansh Arya</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>PSKB</team>
+        <price>3.8</price>
+    </player>
+    <player>
+        <name>Aaron Hardie</name>
+        <role>ALL_ROUNDER</role>
+        <country>Australia</country>
+        <team>PSKB</team>
+        <price>1.25</price>
+    </player>
+    <player>
+        <name>Suryash Shedge</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>PSKB</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Musheer Khan</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>PSKB</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Xavier Bartlett</name>
+        <role>BOWLER</role>
+        <country>Australia</country>
+        <team>PSKB</team>
+        <price>0.8</price>
+    </player>
+    <player>
+        <name>Pyla Avinash</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>PSKB</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Praveen Dubey</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>PSKB</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Jasprit Bumrah</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>MI</team>
+        <price>18</price>
+    </player>
+    <player>
+        <name>Suryakumar Yadav</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>MI</team>
+        <price>16.35</price>
+    </player>
+    <player>
+        <name>Hardik Pandya</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>MI</team>
+        <price>16.35</price>
+    </player>
+    <player>
+        <name>Rohit Sharma</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>MI</team>
+        <price>16.3</price>
+    </player>
+    <player>
+        <name>Tilak Varma</name>
+        <role>BATSMAN</role>
+        <country>India</country>
+        <team>MI</team>
+        <price>8</price>
+    </player>
+    <player>
+        <name>Trent Boult</name>
+        <role>BOWLER</role>
+        <country>New Zealand</country>
+        <team>MI</team>
+        <price>12.5</price>
+    </player>
+    <player>
+        <name>Naman Dhir</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>MI</team>
+        <price>5.25</price>
+    </player>
+    <player>
+        <name>Robin Minz</name>
+        <role>WICKETKEEPER</role>
+        <country>India</country>
+        <team>MI</team>
+        <price>0.65</price>
+    </player>
+    <player>
+        <name>Karn Sharma</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>MI</team>
+        <price>0.5</price>
+    </player>
+    <player>
+        <name>Ryan Rickelton</name>
+        <role>BATSMAN</role>
+        <country>South Africa</country>
+        <team>MI</team>
+        <price>1</price>
+    </player>
+    <player>
+        <name>Deepak Chahar</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>MI</team>
+        <price>9.25</price>
+    </player>
+    <player>
+        <name>Allah Ghazanfar</name>
+        <role>BOWLER</role>
+        <country>Afghanistan</country>
+        <team>MI</team>
+        <price>4.8</price>
+    </player>
+    <player>
+        <name>Will Jacks</name>
+        <role>ALL_ROUNDER</role>
+        <country>England</country>
+        <team>MI</team>
+        <price>5.25</price>
+    </player>
+    <player>
+        <name>Ashwani Kumar</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>MI</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Mitchell Santner</name>
+        <role>ALL_ROUNDER</role>
+        <country>New Zealand</country>
+        <team>MI</team>
+        <price>2</price>
+    </player>
+    <player>
+        <name>Reece Topley</name>
+        <role>BOWLER</role>
+        <country>England</country>
+        <team>MI</team>
+        <price>0.75</price>
+    </player>
+    <player>
+        <name>Shrijith Krishnan</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>MI</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Raj Bawa</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>MI</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Satyanarayana Raju</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>MI</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Bevon Jacobs</name>
+        <role>BATSMAN</role>
+        <country>New Zealand</country>
+        <team>MI</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Arjun Tendulkar</name>
+        <role>BOWLER</role>
+        <country>India</country>
+        <team>MI</team>
+        <price>0.3</price>
+    </player>
+    <player>
+        <name>Lizaad Williams</name>
+        <role>BOWLER</role>
+        <country>South Africa</country>
+        <team>MI</team>
+        <price>0.75</price>
+    </player>
+    <player>
+        <name>Vignesh Puthur</name>
+        <role>ALL_ROUNDER</role>
+        <country>India</country>
+        <team>MI</team>
+        <price>0.3</price>
+    </player>
+</players>
+
