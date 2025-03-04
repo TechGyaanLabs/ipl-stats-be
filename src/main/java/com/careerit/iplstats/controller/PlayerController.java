@@ -1,6 +1,7 @@
 package com.careerit.iplstats.controller;
 
 import com.careerit.iplstats.domain.Player;
+import com.careerit.iplstats.service.IplStatsService;
 import com.careerit.iplstats.service.PlayerService;
 import com.careerit.iplstats.util.ApiResponse;
 import lombok.RequiredArgsConstructor;
@@ -16,6 +17,7 @@ public class PlayerController {
 
     private final PlayerService playerService;
 
+
     @PostMapping("/add-all/{teamId}")
     public ApiResponse<List<Player>> addPlayers(@PathVariable("teamId") UUID teamId, @RequestBody List<Player> players) {
         return new ApiResponse<>(playerService.addPlayers(players, teamId));
@@ -26,11 +28,5 @@ public class PlayerController {
         return new ApiResponse<>(playerService.getPlayers());
     }
 
-    public void downloadPlayersData(){
 
-    }
-
-    public void emailPlayerDetails(){
-
-    }
 }

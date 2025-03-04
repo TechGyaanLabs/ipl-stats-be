@@ -23,6 +23,14 @@ public interface IplStatsRepo extends TeamDetailsRepo{
     List<PlayerDto> getPlayers(@Param("teamId") UUID teamId);
 
     @Query("""
+             select
+                new com.careerit.iplstats.dto.PlayerDto(p.id,p.name,p.role,p.country,t.label,p.price)
+             from Player p
+                inner join p.teamDetails t
+          """)
+    List<PlayerDto> getPlayers();
+
+    @Query("""
             select new com.careerit.iplstats.dto.TeamAmountDto(t.label, sum(p.price)) from Player p inner join p.teamDetails t group by t.label
             """)
     List<TeamAmountDto> getTeamAmountDetails();

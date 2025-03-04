@@ -68,6 +68,17 @@
 			<artifactId>fop</artifactId>
 			<version>2.10</version> <!-- Use the latest version -->
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformat-xml -->
+		<dependency>
+			<groupId>com.fasterxml.jackson.dataformat</groupId>
+			<artifactId>jackson-dataformat-xml</artifactId>
+			<version>2.18.3</version>
+		</dependency>
+		<dependency>
+			<groupId>org.json</groupId>
+			<artifactId>json</artifactId>
+			<version>20250107</version>
+		</dependency>
 	</dependencies>
 
 	<build>

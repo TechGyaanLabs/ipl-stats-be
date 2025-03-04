@@ -2,7 +2,7 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
                 xmlns:fo="http://www.w3.org/1999/XSL/Format">
 
-    <xsl:template match="/">
+    <xsl:template match="root">
         <fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format">
             <fo:layout-master-set>
                 <fo:simple-page-master master-name="A4" page-height="29.7cm" page-width="21cm">
@@ -43,7 +43,7 @@
                         </fo:table-header>
 
                         <fo:table-body>
-                            <xsl:for-each select="players/player">
+                            <xsl:for-each select="players">
                                 <fo:table-row>
                                     <fo:table-cell border="1pt solid black" padding="4pt">
                                         <fo:block><xsl:value-of select="name"/></fo:block>

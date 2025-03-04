@@ -7,6 +7,12 @@ import com.careerit.iplstats.pdf.PdfService;
 import com.careerit.iplstats.repo.IplStatsRepo;
 import com.careerit.iplstats.repo.PlayerRepo;
 import com.careerit.iplstats.service.IplStatsService;
+import com.careerit.iplstats.service.PlayerService;
+import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.dataformat.xml.XmlMapper;
+import org.json.JSONObject;
+import org.json.XML;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.CommandLineRunner;
@@ -15,7 +21,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;
 
+import java.io.File;
 import java.util.*;
+
 
 @SpringBootApplication
 public class IplStatsBeApplication{
@@ -26,6 +34,9 @@ public class IplStatsBeApplication{
 	@Autowired
 	private PdfService pdfService;
 
+	@Autowired
+	private IplStatsService iplStatsService;
+
 	public static void main(String[] args) {
 		SpringApplication.run(IplStatsBeApplication.class, args);
 	}
@@ -33,7 +44,7 @@ public class IplStatsBeApplication{
 	@Bean
 	public CommandLineRunner commandLineRunner() {
 		return args -> {
-			pdfService.generatePdf();
+
 		};
 	}
 

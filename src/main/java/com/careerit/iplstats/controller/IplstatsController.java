@@ -5,6 +5,7 @@ import com.careerit.iplstats.dto.PlayerDto;
 import com.careerit.iplstats.dto.TeamBasicDetailsDto;
 import com.careerit.iplstats.service.IplStatsService;
 import com.careerit.iplstats.util.ApiResponse;
+import jakarta.servlet.http.HttpServletResponse;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
@@ -34,5 +35,13 @@ public class IplstatsController {
         return new ApiResponse<>(iplStatsService.getIplStats());
     }
 
+    @GetMapping("/download")
+    public void downloadPlayersData(HttpServletResponse response){
+        iplStatsService.downloadPlayerPdf(response);
+    }
+
+    public void emailPlayerDetails(){
+
+    }
 
 }
