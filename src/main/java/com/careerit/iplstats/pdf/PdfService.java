@@ -28,6 +28,7 @@ public class PdfService {
     public File generatePdf(Map<String,Object> data, String xslFilePath, String rootElement, String fileName) {
         String xmlString = getXmlString(data,rootElement);
         File xsltFile = new File(this.getClass().getClassLoader().getResource(xslFilePath).getFile());
+
         File pdfFile = File.createTempFile(fileName+"_"+System.currentTimeMillis(), ".pdf");
         FopFactory fopFactory = FopFactory.newInstance(new File(".").toURI());
         FOUserAgent foUserAgent = fopFactory.newFOUserAgent();
