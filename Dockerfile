@@ -23,13 +23,13 @@ RUN mvn clean install -DskipTests
 FROM eclipse-temurin:21-jdk-jammy
 
 # Set the working directory for the application
-WORKDIR /ipl-stats-be
+WORKDIR /iplstats
 
 # Copy the built JAR file from the build stage
-COPY --from=build /app/target/ipl-stats-be.jar ipl-stats-be.jar
+COPY --from=build /app/target/iplstats.jar iplstats.jar
 
 # Expose the default Spring Boot port
 EXPOSE 8080
 
 # Set the command to run the application
-ENTRYPOINT ["java", "-jar", "ipl-stats-be.jar"]
+ENTRYPOINT ["java", "-jar", "iplstats.jar"]
