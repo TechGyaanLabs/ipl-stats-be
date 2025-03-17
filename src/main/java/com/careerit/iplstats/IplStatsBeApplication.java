@@ -11,7 +11,6 @@ import com.careerit.iplstats.service.PlayerService;
 import com.careerit.iplstats.service.TenantDetails;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.fasterxml.jackson.dataformat.xml.XmlMapper;
 import org.json.JSONObject;
 import org.json.XML;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -57,9 +56,7 @@ public class IplStatsBeApplication{
 				System.out.println(tenant.getTenantId()+" "+tenant.getTenantName() + " " + tenant.getIp());
 			}
 			// print app name
-
 			System.out.println(appName);
-
 		};
 	}
 

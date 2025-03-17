@@ -1,6 +1,6 @@
 package com.careerit.iplstats.pdf;
 
-import com.fasterxml.jackson.dataformat.xml.XmlMapper;
+
 import lombok.SneakyThrows;
 import org.apache.fop.apps.FOUserAgent;
 import org.apache.fop.apps.Fop;
@@ -51,7 +51,6 @@ public class PdfService {
     
     public String getXmlString(Map<String, Object> data, String rootElement) {
         JSONObject jsonObject = new JSONObject(data);
-        XmlMapper xmlMapper = new XmlMapper();
         return "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<"+rootElement+">"
                 + XML.toString(jsonObject)+"</"+rootElement+">";
        
