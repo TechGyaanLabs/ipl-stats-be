@@ -1,0 +1,14 @@
+app:
+  custom:
+    tenants:
+      - tenantId: 1001
+        tenantName: SmartMarket
+        ip: 123.2.34.143
+
+      - tenantId: 1002
+        tenantName: AIMarket
+        ip: 121.2.34.142
+
+      - tenantId: 1003
+        tenantName: Super AI Mart
+        ip: 123.45.234.123

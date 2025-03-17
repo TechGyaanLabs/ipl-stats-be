@@ -1,0 +1,45 @@
+spring:
+  application:
+    name: ${APP_NAME:ipl-stats-be}
+
+  config:
+    import: "classpath:tenants.yaml"
+
+  datasource:
+    url: jdbc:postgresql://dpg-cur8acpu0jms73cd4u1g-a.oregon-postgres.render.com/feb_db?currentSchema=dev
+    username: feb_db_user
+    password: ruadzdiIc9awEwBIHxZUrKNCpDVy4NN4
+    port: 5432
+
+  jpa:
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+
+  liquibase:
+    change-log: classpath:db/changelog/main-liquibase.xml
+
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: techgyaanlabs@gmail.com
+    password: iflthozrvmngfjay
+    properties:
+      mail.smtp.auth: true
+      mail.smtp.starttls.enable: true
+      mail.smtp.starttls.required: true
+      mail.smtp.connectiontimeout: 5000
+      mail.smtp.timeout: 5000
+      mail.smtp.writetimeout: 5000
+
+server:
+  port: 8081
+
+application:
+  boot:
+    message: "Message from Dev Env"
+
+email:
+  from:
+    mail: techgyaanlabs@gmail.com
