@@ -75,4 +75,9 @@ public class IplstatsController {
         }
     }
 
+    @GetMapping("/greetings")
+    public String greetings(){
+        return "Hello World";
+    }
+
 }

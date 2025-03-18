@@ -31,4 +31,7 @@ public class TeamDetailsServiceImpl implements TeamDetailsService {
         log.info("Total teams fetched: {}", list.size());
         return list;
     }
+
+
+
 }
